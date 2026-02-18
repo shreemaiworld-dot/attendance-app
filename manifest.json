@@ -1,0 +1,16 @@
+{
+  "name": "MAI Daily Attendance",
+  "short_name": "Attendance",
+  "description": "Submit daily attendance with OTP verification.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f0f0f0",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "https://drive.google.com/file/d/1xWEiPu4lpF4KcVJcRPjGLjAcAIRW78_W/view?usp=sharing",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
